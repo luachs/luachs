@@ -13,7 +13,7 @@ I enjoy building modern web applications with both **frontend** and **backend** 
 ![Phát's GitHub stats](https://github-readme-stats.vercel.app/api?username=luachs&show_icons=true&theme=tokyonight)
 
 ## 📈 Streak Stats
-![Phát's GitHub streak](https://streak-stats.demolab.com?user=luachs&theme=tokyonight&v=1)
+![Phát's GitHub streak](https://streak-stats.demolab.com/?user=luachs&theme=tokyonight)
 
 
 ## 💻 Most Used Languages
